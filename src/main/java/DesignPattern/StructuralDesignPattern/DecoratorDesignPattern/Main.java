@@ -4,6 +4,7 @@ import DesignPattern.StructuralDesignPattern.DecoratorDesignPattern.Decorator.Ex
 
 /*
     * This helps to add more functionality to existing object, without changing its structure.
+    * every class is extending base class so either has-a relation or is-a relation so used interchangeably
     *
  */
 public class Main {
